@@ -16,11 +16,11 @@ npm start
 
 ## Screenshots
 * Will add after first commit
-![homepage](https://github.com/[rebekahkahn]/[mantisplace-bootstrap-design]/blob/[master]/img/screenshots/homepage-large.png?raw=true)
-![items page](https://github.com/[rebekahkahn]/[mantisplace-bootstrap-design]/blob/[master]/img/screenshots/itemspage-large.png?raw=true)
-![product preview](https://github.com/[rebekahkahn]/[mantisplace-bootstrap-design]/blob/[master]/img/screenshots/product-preview.png?raw=true)
-![shopping modal](https://github.com/[rebekahkahn]/[mantisplace-bootstrap-design]/blob/[master]/img/screenshots/shopping-modal.png?raw=true)
-![quickview modal](https://github.com/[rebekahkahn]/[mantisplace-bootstrap-design]/blob/[master]/img/screenshots/preview-modal.png?raw=true)
+![homepage](https://github.com/rebekahkahn/mantisplace-bootstrap-design/blob/master/img/screenshots/homepage-large.png)
+![items page](https://github.com/rebekahkahn/mantisplace-bootstrap-design/blob/master/img/screenshots/itemspage-large.png)
+![product preview](https://github.com/rebekahkahn/mantisplace-bootstrap-design/blob/master/img/screenshots/product-preview.png)
+![shopping modal](https://github.com/rebekahkahn/mantisplace-bootstrap-design/blob/master/img/screenshots/quickview-modal.png)
+![quickview modal](https://github.com/rebekahkahn/mantisplace-bootstrap-design/blob/master/img/screenshots/shopping-modal.png)
 
 
 ## To Do
