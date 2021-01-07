@@ -1,0 +1,21 @@
+/*HEADER CUSTOM styles-------------------------------------------------------------------------*/
+$light-gray: #f9f9f9;
+$almost-black: #202020; 
+
+a.website-name {                              /*CUSTOM container*/
+    color:$almost-black;
+}
+
+.website-name:hover{
+    text-decoration: none;
+    color: $light-gray;
+}
+
+/*NAVBAR (top) styles---------------------------------------------------------------------------*/
+.navbar-nav{                                 /*add space after website logo*/
+    padding:40px;
+}
+
+.navbar-collapse{
+    overflow-y: hidden;
+}

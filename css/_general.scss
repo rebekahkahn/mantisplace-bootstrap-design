@@ -1,0 +1,18 @@
+/*general website formatting------------------------------------------------------------------*/
+$bright-green: #59916d;
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+footer, .nav-item, h5, .modal-footer {
+    font-family: "Raleway", sans-serif;
+}
+
+h1 {
+    font-family: 'Aladin', sans-serif;
+}
+
+.navbar-dark{
+    background-color: $bright-green;
+}

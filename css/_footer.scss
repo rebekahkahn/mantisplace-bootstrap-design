@@ -1,0 +1,27 @@
+/*FOOTER reformat of text items and background----------------------------------------------------*/
+$bright-green: #59916d;
+
+.site-footer{                           /*CUSTOM container*/
+    background-color: $bright-green;
+    min-height: 150px;
+    color: white;
+}
+
+.footer-text p{
+    margin: 0;
+}
+
+.btn-social-icon{
+    color: white;
+}
+
+/*SCROLL UP button styles----------------------------------------------------------------------------*/
+#back-top {
+    position: relative;  
+    font-size: 50px;
+    color: rgba(0,0,0,0.5);
+    bottom: 0%; 
+    left: 45%; 
+    width:auto;
+    text-decoration: none;
+}

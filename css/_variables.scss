@@ -1,0 +1,16 @@
+/*variables ---------------------------------------------------------------------------------------------*/
+$bright-green: #59916d;   /* header and footer background */
+$light-gray: #f9f9f9;     /* navbar card headers backgrounds; HOVER font color: navbar, header Mantis */
+$almost-black: #202020;   /* header, card header, and card body fonts */
+
+
+/*button ------------------------------------------------------------------------------------------------*/
+.btn-custom {
+    @include button-variant($bright-green, $bright-green);
+    color: #fff;
+}
+
+.btn-custom:focus, .btn-custom:active:focus, .btn-custom.active:focus{
+    outline:none !important;
+    box-shadow:none !important;
+}
