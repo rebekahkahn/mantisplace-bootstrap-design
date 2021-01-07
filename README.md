@@ -15,11 +15,19 @@ npm start
 ```
 
 ## Screenshots
-* Will add after first commit
+* Home page
 ![homepage](https://github.com/rebekahkahn/mantisplace-bootstrap-design/blob/master/img/screenshots/homepage-large.png)
+
+* Items page
 ![items page](https://github.com/rebekahkahn/mantisplace-bootstrap-design/blob/master/img/screenshots/itemspage-large.png)
+
+* Product preview
 ![product preview](https://github.com/rebekahkahn/mantisplace-bootstrap-design/blob/master/img/screenshots/product-preview.png)
+
+* Shopping cart
 ![shopping modal](https://github.com/rebekahkahn/mantisplace-bootstrap-design/blob/master/img/screenshots/quickview-modal.png)
+
+* Quickview items
 ![quickview modal](https://github.com/rebekahkahn/mantisplace-bootstrap-design/blob/master/img/screenshots/shopping-modal.png)
 
 
